@@ -1,0 +1,14 @@
+Whatsapp Message BOMB using PYTHON
+
+Requirments Needed:
+1)python
+2)chrome browser
+3)chrome driver "https://chromedriver.chromium.org/downloads" 
+install this as per your version of chrome
+4)install selenium using "pip install selenium"
+
+- - Change the Directory of the chrome driver path in the python file -- -
+
+contact:saranrajmcse@gmail.com
+--M S RAJ-
+
